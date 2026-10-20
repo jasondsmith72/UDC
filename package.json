@@ -63,7 +63,7 @@
     "configurable-access"
   ],
   "dependencies": {
-    "@modelcontextprotocol/sdk": "1.0.1",
+    "@modelcontextprotocol/sdk": "1.32.0",
     "glob": "^10.3.10",
     "zod": "^3.24.1",
     "zod-to-json-schema": "^3.23.5"
